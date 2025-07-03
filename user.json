@@ -4,11 +4,5 @@
         "password": "1",
         "expiry": "2025-07-01",
         "hwid": []
-    },
-    {
-        "username": "apex",
-        "password": "1",
-        "expiry": "2025-08-02",
-        "hwid": []
     }
 ]
