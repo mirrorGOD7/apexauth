@@ -1,14 +1,1 @@
-[
-    {
-        "username": "1",
-        "password": "1",
-        "expiry": "2025-07-01",
-        "hwid": []
-    },
-    {
-        "username": "DEV",
-        "password": "1",
-        "expiry": "2028-03-28",
-        "hwid": []
-    }
-]
+[{"username":"1","password":"1","expiry":"2025-07-01","hwid":[]},{"username":"DEV","password":"1","expiry":"2028-03-28","hwid":["4200bc5aaf133874d68b352d22e1fad9e8443b767f249e564ecfaccfc516b15c"]}]
