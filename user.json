@@ -1,1 +1,30 @@
-[{"username":"1","password":"1","expiry":"2025-07-01","hwid":[]},{"username":"DEV","password":"1","expiry":"2028-03-28","hwid":["4200bc5aaf133874d68b352d22e1fad9e8443b767f249e564ecfaccfc516b15c"]},{"username":"apex","password":"1","expiry":"2028-03-28","hwid":["67162b63e523aba8f1915569f44333d7c284a2667a763e9db316b70d39ad7a3b"]}]
+[
+    {
+        "username": "1",
+        "password": "1",
+        "expiry": "2025-07-01",
+        "hwid": []
+    },
+    {
+        "username": "DEV",
+        "password": "1",
+        "expiry": "2028-03-28",
+        "hwid": [
+            "4200bc5aaf133874d68b352d22e1fad9e8443b767f249e564ecfaccfc516b15c"
+        ]
+    },
+    {
+        "username": "apex",
+        "password": "1",
+        "expiry": "2028-03-28",
+        "hwid": [
+            "67162b63e523aba8f1915569f44333d7c284a2667a763e9db316b70d39ad7a3b"
+        ]
+    },
+    {
+        "username": "harsh",
+        "password": "1",
+        "expiry": "2028-03-28",
+        "hwid": []
+    }
+]
