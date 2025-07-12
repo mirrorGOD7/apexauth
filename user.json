@@ -82,11 +82,5 @@
     "password": "1",
     "expiry": "2025-07-13",
     "hwid": []
-  },
-  {
-    "username": "test",
-    "password": "1",
-    "expiry": "2025-07-12",
-    "hwid": "fd4f9fcd29c9ce9ced478557a2c8e7fc0b28b23b1cc749a184c46d293daedae1"
   }
 ]
